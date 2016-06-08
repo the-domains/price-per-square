@@ -1,0 +1,14 @@
+layout_spectrum: 0.1322244938928634
+typography_spectrum: 0.07104496913962066
+color:
+  brandStrength: 0.9763301808852702
+  lightness: 0.03955324343405664
+  saturation: 0.3691988755017519
+  rhythmicContrast: 0.4417027134913951
+  brandColors:
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
+name: price per square
